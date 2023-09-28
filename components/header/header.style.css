@@ -1,0 +1,27 @@
+#header-text {
+  font-size: 40px;
+}
+
+#header-inner-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 20px 30px;
+}
+
+#header-profile-container {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+#header-notify-icon {
+  width: 28px;
+  height: 28px;
+}
+
+#header-profile-photo {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+}
