@@ -18,4 +18,4 @@
 
 ## Дизайн
 Дизайн проекта взят с Dribble: [https://dribbble.com/shots/22660147-Pflanzen-Hydroponics-Dashboard](https://dribbble.com/shots/22660147-Pflanzen-Hydroponics-Dashboard)
-![image](https://github.com/toqsukr/EcoProject/assets/72607622/fcd65fb3-9af0-47ba-a2c1-2d5df56ffa6b)
+![image](https://github.com/toqsukr/EcoProject/assets/72607622/4b0d24f4-a85a-44eb-83ca-7bed1aee221c)
